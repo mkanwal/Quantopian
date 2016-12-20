@@ -1,2 +1,2 @@
 # Quantopian
-Algorithmic Trading via Deep Reinforcement Learning
+Algorithmic Trading via Deep Learning
